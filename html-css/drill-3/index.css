@@ -1,0 +1,49 @@
+div {
+    margin: auto;
+    width: 85vw;
+    height: 15vh;
+}
+
+#text {
+    margin: auto;
+    width: 70vw;
+    padding: 7vh;
+}
+
+p {
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: left;
+}
+
+#grey {
+    background-color: lightgray;
+}
+
+#small-blue {
+    margin: 1%;
+    padding: auto;
+    width: 11vh;
+    height: 11vh;
+    display: inline-block;
+    background-color: steelblue;
+}
+
+#blue {
+    margin-top: 20vh;
+    background-color: steelblue;
+}
+
+#cyan {
+    background-color: cyan;
+}
+
+#lime {
+    background-color: yellowgreen;
+}
+
+#yellow {
+    background-color: yellow;
+}
